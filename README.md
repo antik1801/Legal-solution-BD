@@ -19,7 +19,7 @@ If needed rename the images to give them some meaningful name. Please note, renm
 
 # screen shots: 
 
-<img src="./ss/1.png">
+<img src="./ss/1.png" />
 <img src="./ss/2.png">
 <img src="./ss/3.png">
 <img src="./ss/4.png">
