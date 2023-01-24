@@ -15,3 +15,15 @@ https://marvelous-bonbon-841a3a.netlify.app
 ```
 ----------------
 If needed rename the images to give them some meaningful name. Please note, renmaing images is optional. 
+
+
+# screen shots: 
+
+<img src="./ss/1.png">
+<img src="./ss/2.png">
+<img src="./ss/3.png">
+<img src="./ss/4.png">
+<img src="./ss/5.png">
+<img src="./ss/6.png">
+<img src="./ss/7.png">
+<img src="./ss/8.png">
